@@ -1,5 +1,17 @@
 [
     {
+        "package": "designit",
+        "url": "https://github.com/bedapub/designit"
+    },
+    {
+        "package": "ribiosUtils",
+        "url": "https://github.com/bedapub/ribiosUtils"
+    },
+    {
+        "package": "ribiosMath",
+        "url": "https://github.com/bedapub/ribiosMath"
+    },
+    {
         "package": "ribiosArg",
         "url": "https://github.com/bedapub/ribiosArg"
     },
